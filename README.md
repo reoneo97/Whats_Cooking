@@ -5,11 +5,10 @@ Medium Article: https://towardsdatascience.com/whats-cooking-categorizing-cuisin
 
 This project involves learning how to use Continuous Bag of Words (CBOW) a Natural Language Processing technique in the context of teaching the model how to classify recipes from different cuisines. This project uses PyTorch to build a CBOW model which learns the ingredient embeddings for the dataset. This model is the compared to the statistical technique Principal Component Analysis (PCA) to compare performances.  
 
-[[\plots\nlp_set1.png]]
+![Clustering using CBOW](https://github.com/reoneo97/Whats_Cooking/blob/master/plots/nlp_set1.png)
 
 
-
-[[\plots\pca_set1.png]]
+![Clustering using PCA](https://github.com/reoneo97/Whats_Cooking/blob/master/plots/pca_set1.png)
 
 
 
